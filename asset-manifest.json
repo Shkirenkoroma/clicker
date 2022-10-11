@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clicker/static/css/main.135ab78d.css",
+    "main.js": "/clicker/static/js/main.c21f573d.js",
+    "index.html": "/clicker/index.html",
+    "main.135ab78d.css.map": "/clicker/static/css/main.135ab78d.css.map",
+    "main.c21f573d.js.map": "/clicker/static/js/main.c21f573d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.135ab78d.css",
+    "static/js/main.c21f573d.js"
+  ]
+}
